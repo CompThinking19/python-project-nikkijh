@@ -1,4 +1,4 @@
-1. A person’s condition with regard to their %1adjective and %2adjective well-being.
-2. One in %3number students have a diagnosable illness.
-3. %4number percent of students have become so anxious that they struggled in school.
-4. There are three main kinds of symptoms for depression: %5adjective symptoms, %6adjective symptoms, and %7adjective symptoms
+A person’s condition with regard to their %firstadjective and %secondadjective well-being.
+One in %thirdnumber students have a diagnosable illness.
+%fourthnumber percent of students have become so anxious that they struggled in school.
+There are three main kinds of symptoms for depression: %fifthadjective symptoms, %sixthadjective symptoms, and %seventhadjective symptoms.

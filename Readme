@@ -1,0 +1,13 @@
+I ended up having to change my project to something that would work better than
+my previous project proposal. For this project, I wanted to make the topic on mental health and in specifically college students.
+Many people struggle with mental health and don't realize how important to care of yourself mentally and not just physically for example like diet and exercise.
+Students in college are always being stressed and overwhelmed which can lead to anxiety, depression, and other mental health issues which can also lead to physical issues as well.
+I wanted to create a madlibs style fill in the blank quiz.
+So you would be able to see the sentences and there would be missing words and in place of those missing words, it would say the type of word that is missing for example adjective or number.
+After they put in what they think the missing part is, they would be able to see the correct version of the sentences that have the correct words in it. They then would be able to
+compare their answers vs the correct answers.
+The "questions" are really asking a question but are more facts about mental health and they have to put insert what they think it is trying to say.
+Most of the coding process I was okay with was able to figure it out and have it run without any errors.
+The part I did and still am struggling with is how I get them to actually be able to input their answers for every missing blank answer and have it fill into the correct missing blank spot.
+I don't need it to tell them if it's right or wrong because they will be comparing their answers when they are done with the correct answers.
+At this moment, all the coding I have does run without any errors and is outputting what I want it to output mostly
