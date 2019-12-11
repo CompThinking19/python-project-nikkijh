@@ -1,0 +1,11 @@
+Comments
+There were many comments throughout and your code was generally well documented. There could have been something of a greater sense of "why", but the code was admirably documented.
+
+Code Quality
+I appreciate the uses of functions to do some of the work that you needed to do. Both the functions you declare are useful "utility" functions that could be used repeatedly. I think the actual printing of the material could be a bit DRYer, and there's a bunch of extraneous print statements I don't really understand.
+
+Ambition
+I like the general conceit of this project, and I think there's a lot of potential to working with this topic. Your README gave a good sense of what you were trying to do and why.
+
+Aesthetics
+Unfortunately, the program just spit out the basic facts when I ran it, and there wasn't much of the experience you describe since you didn't take user input.
